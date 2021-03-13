@@ -1,4 +1,4 @@
-name: JD_Sign_Action
+name: 京东自动化签到
 on:
   repository_dispatch:
   release:
